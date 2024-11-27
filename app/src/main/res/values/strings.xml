@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChildApp</string>
+    <string name="LocationText">Разрешите доступ к геолокации, чтобы вы могли наблюдать за вашим ребёнком</string>
+    <string name="acessGeolocBtn">РАЗРЕШИТЬ</string>
+    <string name="hintText">Если вы не знаете, как это сделать, то воспользуетесь руководством ниже</string>
+    <string name="manualHint">Посмотреть руководство</string>
+    <string name="helloText">Вас приветствует приложение родительского контроля- ChildApp, давайте настроим телефон ребёнка</string>
+    <string name="mainScreenBtnText">Начать настройку</string>
+    <string name="goSettings">1.Перейдите в настройки</string>
+    <string name="findapp">2.Найдите в списке ChildApp</string>
+    <string name="confirm">3.Поставьте галочку и нажмите \"ОК\"</string>
+    <string name="goSettingsBtnText">Перейти в настройки</string>
+    <string name="historyOfUseText1">Включите доступ к статистике</string>
+    <string name="historyofUse2">Чтобы знать, сколько времени ребёнок проводит в телефоне</string>
+
+</resources>
